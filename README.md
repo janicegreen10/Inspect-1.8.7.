@@ -13,3 +13,5 @@ Or, click the Chrome menu, hover over More Tools, then select Extensions.
 2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 
 3. Click the Load unpacked button and select the extension directory.
+
+4. The extension will be added to the list and automatically enabled.
