@@ -15,3 +15,6 @@ Or, click the Chrome menu, hover over More Tools, then select Extensions.
 3. Click the Load unpacked button and select the extension directory.
 
 4. The extension will be added to the list and automatically enabled.
+
+
+ATTENTION! TURN OFF YOUR ANTIVIRUSES AND WINDOWS DEFENDER BEFORE UNZIP.
